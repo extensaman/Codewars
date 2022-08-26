@@ -1,1 +1,1 @@
-# Codewars
+# Repository for Codewars katas
